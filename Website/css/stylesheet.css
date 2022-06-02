@@ -1,0 +1,70 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.pentagon {
+  position: absolute;
+}
+
+.rope-man {
+  width: 100%;
+}
+
+.page {
+  position: absolute;
+  z-index: 100;
+}
+
+
+.page p {
+  color: white;
+  font-size: 35px;
+  margin: 50px;
+}
+
+h1 {
+  color: #F2D13E;
+  font-size: 48px;
+  margin: 50px;
+  font-style: italic;
+}
+
+.page a {
+  background-color: #F2D13E;
+  border-radius: 10px;
+  color: #2B2862;
+  padding: 15px;
+  margin: 50px;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+  /* pentagon shape
+  .pentagon{
+    position: absolute;
+    top: 20%;
+    
+    height: 0;
+    width: 180px;
+    border-top: 180px solid rgb(0, 66, 128);
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+  }
+ 
+  .pentagon:after{
+    position: absolute;
+    content: '';
+    border-bottom: 180px solid rgb(0, 66, 128);
+    border-left: 180px solid transparent;
+    border-right: 180px solid transparent;
+    bottom: 180px;
+    left: -90px;
+  }
+  */
