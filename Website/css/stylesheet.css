@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .pentagon {
@@ -24,7 +25,6 @@
 }
 
 h1 {
-  font-family: 'Open Sans', sans-serif;
   color: #F2D13E;
   font-size: 48px;
   margin: 50px;
@@ -38,11 +38,24 @@ h1 {
   padding: 15px;
   margin: 50px;
   font-size: 30px;
+  font-weight: 600;
 }
 
+.heavy-lift {
+  margin: 10px;
+}
 
+.tethers {
+  margin: 10px;
+}
 
+.towing-ropes {
+  margin: 10px;
+}
 
+.winch-ropes {
+  margin: 10px;
+}
 
 
 
